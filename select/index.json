@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Stay Strong",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T17:09:52.060684Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tha Payroll (Stay Strong)",
+      "artist": "Michael Franti & Spearhead",
+      "has_synced": false,
+      "path": "select/01_Tha_Payroll_(Stay_Strong)_Michael_Franti_&_Spearhead.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay Strong (Sophia's Song)",
+      "artist": "Neffex",
+      "has_synced": true,
+      "path": "select/02_Stay_Strong_(Sophia's_Song)_Neffex.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stay Strong",
+      "artist": "From Atlantis",
+      "has_synced": true,
+      "path": "select/03_Stay_Strong_From_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay Strong",
+      "artist": "Newsboys",
+      "has_synced": true,
+      "path": "select/04_Stay_Strong_Newsboys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay Strong",
+      "artist": "Newsboys",
+      "has_synced": true,
+      "path": "select/05_Stay_Strong_Newsboys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stay Strong",
+      "artist": "Newsboys",
+      "has_synced": false,
+      "path": "select/06_Stay_Strong_Newsboys.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Weak (Stay Strong Mix)",
+      "artist": "AJR feat. Louisa Johnson",
+      "has_synced": true,
+      "path": "select/07_Weak_(Stay_Strong_Mix)_AJR_feat._Louisa_Johnson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay Strong",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_Strong_BE_FIRST.txt"
+    }
+  ]
+}
